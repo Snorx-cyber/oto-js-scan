@@ -174,10 +174,10 @@ MIT License © 2024
 
 ## 🔗 Bağlantılar
 
-- 🌐 **Website:** [js-security-scanner.com](https://js-security-scanner.com)
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 💬 **Discord:** [Community Server](https://discord.gg/yourinvite)
-- 📧 **Email:** security@yourproject.com
+- 🌐 **Website:** [js-security-scanner.com](https://ariva.com.tr)
+- 🐦 **Twitter:** [@yourusername](https://x.com/Kornetfix6)
+- 💬 **Telegram:** [My Dm](t.me/BySnorx)
+- 📧 **Email:** esnorx@proton.me
 
 ---
 
