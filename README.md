@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/js-security-scanner.git
 cd js-security-scanner
 
 # Tarayıcıda aç
-open index.html
+open c.html
 ```
 
 **Veya direkt kullan:** Sadece `index.html` dosyasını tarayıcıda aç! 🎉
